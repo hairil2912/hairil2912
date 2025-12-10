@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Khairil Anwar, a full-time full-stack freelance developer 👨‍💻 working remotely since 2010 🚀</div>  
+### <div align="center">I'm Khairil Anwar, a full-time Developer 👨‍💻 working remotely since 2010 🚀</div>  
   
 
 - 🔭 I’m currently working on KlikData Indonesia
