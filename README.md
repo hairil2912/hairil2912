@@ -57,16 +57,6 @@
 
 <div align="center">
 
-<!-- Full metrics stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=hairil2912&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github&bg_color=0d1117&title_color=00B7FF&icon_color=00B7FF&text_color=c9d1d9" height="180" alt="GitHub Stats"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hairil2912&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00B7FF&text_color=c9d1d9&card_width=320" height="180" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
 <!-- 🔥 Streak Stats - Activity Performance -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hairil2912&hide_border=true&theme=radical&background=0D1117&ring=00B7FF&fire=FF6B35&currStreakLabel=00B7FF&sideLabels=FFD700&sideNums=FF6B35&currStreakNum=00B7FF&dates=8B949E" height="170" alt="GitHub Streak"/>
 
@@ -83,8 +73,8 @@
 
 <div align="center">
 
-<!-- 📈 Animated Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hairil2912&theme=react-dark&hide_border=true&area=true&color=00B7FF&line=00B7FF&point=FF6B35&bg_color=0d1117&title=Contribution%20Timeline" width="100%" alt="Activity Graph"/>
+<!-- 📈 Contribution Timeline (reliable mirror: ghchart.rshah.org) -->
+<img src="https://ghchart.rshah.org/00B7FF/hairil2912" width="100%" alt="Contribution Chart"/>
 
 </div>
 
@@ -102,8 +92,8 @@
 
 <div align="center">
 
-<!-- 🏅 Trophy Scoring - auto-ranked achievements -->
-<img src="https://github-profile-trophy.vercel.app/?username=hairil2912&theme=radical&no-frame=true&column=8&margin-w=8&margin-h=10&rank=SECRET,SSS,SS,S,A,B,C" width="100%" alt="Trophy Score"/>
+<!-- 🏅 Trophy Scoring - auto-ranked achievements (reliable mirror endpoint) -->
+<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=hairil2912&theme=radical&no-frame=true&column=8&margin-w=8&margin-h=10&rank=SECRET,SSS,SS,S,A,B,C" width="100%" alt="Trophy Score"/>
 
 </div>
 
@@ -162,7 +152,7 @@
 
 <p>
   <sub>✨ This profile is <b>auto-updated in real-time</b> via GitHub Actions — stats, streaks & animations refresh automatically.</sub><br/>
-  <sub>🔄 Last refresh runs daily · 📊 Powered by GitHub Readme Stats, Streak Stats & Activity Graph</sub>
+  <sub>🔄 Last refresh runs daily · 📊 Powered by Summary Cards, Streak Stats & Contribution Chart</sub>
 </p>
 
 </div>
