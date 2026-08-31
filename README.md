@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B7FF,50:6E5BFF,100:FF6B35&height=220&section=header&text=Khairil%20Anwar&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20Remote%20since%202010&descAlignY=60&descSize=16&fontColor=ffffff&stroke=00B7FF&animation=twinkling&strokeWidth=2" width="100%"/>
 
 <!-- ⌨️ Animated Typing Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1500&color=00B7FF&center=true&vCenter=true&repeat=false&width=720&lines=Backend+%E2%86%92+Frontend+%E2%86%92+DevOps+%F0%9F%9A%80;Building+scalable+systems+%E2%9A%99%EF%B8%8F;15%2B+years+of+code+%F0%9F%92%BB;Open+source+contributor+%E2%9D%A4%EF%B8%8F;Currently+%40+KlikData+Indonesia+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1500&color=00B7FF&center=true&vCenter=true&repeat=false&width=720&lines=Backend+%E2%86%92+Frontend+%E2%86%92+DevOps+%F0%9F%9A%80;Building+scalable+systems+%E2%9A%99%EF%B8%8F;15%2B+years+of+code+%F0%9F%92%BB;Open+source+contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/></a>
 
 <!-- 📊 Live Stat Badges -->
 <p>
@@ -32,7 +32,6 @@
 │  role: "Full Stack Engineer"                                    │
 │  location: "Indonesia 🇵🇬"                                       │
 │  experience: "15+ years (remote since 2010)"                    │
-│  company: "KlikData Indonesia"                                  │
 │  stack: ["Backend", "Frontend", "DevOps", "Database", "Cloud"]  │
 │  focus: ["Scalable Architecture", "API Design", "Automation"]   │
 │  learning: ["AI/ML", "Cloud Native", "Kubernetes"]              │
